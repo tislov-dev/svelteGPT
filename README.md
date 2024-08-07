@@ -1,2 +1,2 @@
 # svelteGPT
-A chtGPT clone using sveltekit
+A chatGPT clone using sveltekit
